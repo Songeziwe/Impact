@@ -1,0 +1,6 @@
+The program is desidgned in such a way that it reflects characteristics for the numbers in the sequences.
+If the numbers are sequential and in ascending order the range will also be in ascending order.
+If the numbers are sequential and in descending order the range will also be in descending order.
+
+For JUnit testing please download the folling files:
+https://github.com/junit-team/junit4/wiki/Download-and-Install
